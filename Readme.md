@@ -7,7 +7,7 @@ Follow [@niftylettuce](http://twitter.com/niftylettuce) on Twitter for updates.
 Like this module?  Check out [node-email-templates](https://github.com/niftylettuce/node-email-templates)!
 
 
-## Index
+## Index
 
 - [Features](#features)
 - [Add-On Modules](#add-on-modules)
